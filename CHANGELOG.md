@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## v0.3.2
+
+- Update install to support helm 3
+
 ## v0.3.1
 
 - Update to use go modules
@@ -54,7 +58,7 @@ bsc#1156646
 
 - `downloaded-index.yaml` file changes it's name to `index.yaml` to allow users to host quickly
   a mirror chart server.
-  
+
 
 ## v0.1.0
 
